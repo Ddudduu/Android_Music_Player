@@ -4,9 +4,9 @@
 /app/build/intermediates/javac/debug/classes/
 /gradle
 /HW3.iml
-./build.gradle
-./gradle.properties
-./gradlew
-./gradlew.bat
-./local.properties
-./settings.gradle
+/build.gradle
+/gradle.properties
+/gradlew
+/gradlew.bat
+/local.properties
+/settings.gradle
